@@ -1,0 +1,14 @@
+[
+{
+"author" : "yukimoki",
+"name" : "Theme_a_moi",
+"keyWords" : "keyword1,keyword2",
+"version" : "1.0.0",
+"dofusVersion" : "2.48",
+"description" : "un petit theme sympa",
+"url" : "L'URL d'hébergement du thème",
+"previewUrl" : "L'URL d'hébergement de l'image de présentation",
+"creationDate" : "10/11/2018",
+"modificationDate" : "10/11/2018"
+}
+]
